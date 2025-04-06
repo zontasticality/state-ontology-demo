@@ -2,7 +2,7 @@
 title: Weber's State
 type: definition
 ---
-[[defines:The State]] is an [[is_a:Organization]] with the goal of maintaining an [[uses:Order]] within a [[uses:Territory]].
+[[defines:The State]] is an [[is-a:Organization]] with the goal of maintaining an [[uses:Order]] within a [[uses:Territory]].
 
 This Order contains:
  - Self-Preservation

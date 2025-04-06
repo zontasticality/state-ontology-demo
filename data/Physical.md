@@ -3,7 +3,7 @@ title: Physical
 type: definition
 ---
 
-Type: [[is_a:Property]]
+Type: [[is-a:Property]]
 
 Property of something being in the real world, i.e. representable / simulatable by the laws of Physics.
 

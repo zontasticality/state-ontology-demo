@@ -3,7 +3,7 @@ title: Process
 type: definition
 ---
 
-Type: [[is_a:Entity]].
+Type: [[is-a:Entity]].
 
 The Category of causally linked events that play out over time.
 

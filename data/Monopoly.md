@@ -3,6 +3,6 @@ title: Monopoly
 type: definition
 ---
 
-Type: [[is_a:Entity]]
+Type: [[is-a:Entity]]
 
 The exclusive possession, control, or excerise of something.

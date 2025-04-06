@@ -3,7 +3,7 @@ title: Agent World
 type: definition
 ---
 
-An Agent World is a [[is_a:Computation]] that communicates with one or more [[uses:Agent]]s.
+An Agent World is a [[is-a:Computation]] that communicates with one or more [[uses:Agent]]s.
 
 For each time step, it might compute something like:
 

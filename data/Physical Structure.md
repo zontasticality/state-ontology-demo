@@ -3,7 +3,7 @@ title: Physical Structure
 type: definition
 ---
 
-Type: [[is_a:Structure]], [[is_a:Physical Entity]]
+Type: [[is-a:Structure]], [[is-a:Physical Entity]]
 
 A Category of one or more [[uses:Physical]] Entities that are related in some manner.
 
