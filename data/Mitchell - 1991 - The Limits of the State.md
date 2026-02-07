@@ -1,5 +1,5 @@
 ---
-title: Mitchel - 1991 - The Limits of the State
+title: Mitchell - 1991 - The Limits of the State
 type: source
 ---
 

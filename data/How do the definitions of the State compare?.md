@@ -1,5 +1,5 @@
 ---
-title: How to the definitions of the State compare?
+title: How do the definitions of the State compare?
 type: argument
 ---
 
@@ -58,4 +58,4 @@ The property of Theoretical Utility is, for sociological concepts at least, in s
 
 ## Criteria #8: Field Utility
 
-The sources that outline the socially-constructed state (i.e. [[mention:Mitchel - 1991 - The Limits of the State|Mitchel]], [[mention:Migdal and Schlichte - 2005 - Dynamics of States - Rethinking the State|Migdal and Schlichte]]), set out to redefine the state to solve some inconsistencies between the semantic field's conception of the state and what was happening to states in the real world. So, between the 3 definitions, I'd say the Socially Constructed State has the most field utility as it was invented to improve our understanding of concepts relating to the state.
+The sources that outline the socially-constructed state (i.e. [[mention:Mitchell - 1991 - The Limits of the State|Mitchell]], [[mention:Migdal and Schlichte - 2005 - Dynamics of States - Rethinking the State|Migdal and Schlichte]]), set out to redefine the state to solve some inconsistencies between the semantic field's conception of the state and what was happening to states in the real world. So, between the 3 definitions, I'd say the Socially Constructed State has the most field utility as it was invented to improve our understanding of concepts relating to the state.

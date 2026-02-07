@@ -14,4 +14,4 @@ Some notable examples of state-circumventing technologies this are:
  - Encrypted Communication (Prevents state surveilance, depending on context)
 
 [1]: [[cites:Scott - 2009 - The Art of Not Being Governed - State Evasion, State Prevention]]
-[2]: [[cites:The Spector of Crypto-anarchy, Regulating Anonymity-Protecting Peer-To-Peer Networks]]
+[2]: [[cites:The Specter of Crypto-anarchy: Regulating Anonymity-Protecting Peer-To-Peer Networks]]

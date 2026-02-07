@@ -1,9 +1,9 @@
 ---
-title: The Spector of Crypto-anarchy, Regulating Anonymity-Protecting Peer-To-Peer Networks
+title: The Specter of Crypto-anarchy: Regulating Anonymity-Protecting Peer-To-Peer Networks
 type: source
 ---
 
-John Alan Farmer, *The Spector of Crypto-anarchy: Regulating Anonymity-Protecting Peer-To-Peer Networks,* 72 Fordham L. Rev. 725 (2003)
+John Alan Farmer, *The Specter of Crypto-anarchy: Regulating Anonymity-Protecting Peer-To-Peer Networks,* 72 Fordham L. Rev. 725 (2003)
 
 URL: [The Specter of Crypto-anarchy.pdf](../The%20Specter%20of%20Crypto-anarchy.pdf)
 

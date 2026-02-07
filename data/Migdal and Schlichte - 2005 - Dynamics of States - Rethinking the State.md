@@ -3,7 +3,7 @@ title: Migdal and Schlichte - 2005 - Dynamics of States - Rethinking the State
 type: source
 ---
 
-Schlichte, K., &#38; Migdal, J. (2016). Rethinking the State. In K. Schlichte (Ed.), *The dynamics of states: The formation and crises of state domination.* Routledge.
+Schlichte, K., &#38; Migdal, J. (2005). Rethinking the State. In K. Schlichte (Ed.), *The dynamics of states: The formation and crises of state domination.* Ashgate. (Reprinted by Routledge, 2016.)
 
 URL: [Migdal and Schlichte - 2005 - Dynamics of States - Rethinking the State.pdf](./Migdal%20and%20Schlichte%20-%202005%20-%20Dynamics%20of%20States%20-%20Rethinking%20the%20State.pdf)
 
