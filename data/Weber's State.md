@@ -8,7 +8,7 @@ This Order contains:
  - Self-Preservation
  - An imposed [[uses:Sharable Conception]] on what kind of [[uses:Violence]] is permitted.
 
- using an implied or actual [[uses:Monopoly]] on the [[uses:Use of Violence]].
+ using an implied or actual [[uses:Monopoly]] on the [[uses:Use of Violence]], backed by [[uses:Authority]].
 
 Note: I don't include "Meaning of Violence" in this
 
