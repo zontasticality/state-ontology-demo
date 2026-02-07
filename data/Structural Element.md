@@ -8,6 +8,6 @@ Referring to the definition of [[mention:Structure]]. A structural element is th
 Examples
  - Atom elements may be related to other atoms to form molecules
  - Molecule elements may be related to form crystals or other molecular structures.
- - Ants elements may be related to other humans to form ant colony.
+ - Ant elements may be related to other ants to form an ant colony.
  - Human elements may be related to form a group, organization, or society, etc.
  - Computers elements may be related to form networks.

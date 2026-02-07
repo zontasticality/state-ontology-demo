@@ -15,7 +15,7 @@ I'd say the term **"The State"** (bold for emphasis) is pretty resonant, very le
 
 Out of all the definitions, however, I'd say that the Socially Constructed State is the most resonant with me. "Fields of Power" sounds cool!
 
-## Criteria #3: Parisomy
+## Criteria #3: Parsimony
 
 Ditto Criteria #2 for the term, the term is very short.
 

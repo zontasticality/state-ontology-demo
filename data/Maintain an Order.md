@@ -1,5 +1,5 @@
 ---
-title: Maintain a Order
+title: Maintain an Order
 type: definition
 ---
 
