@@ -3,7 +3,7 @@ title: Socially Constructed State
 type: definition
 ---
 
-[[defines:The State]] is a [[is-a:Social Construct]] that [[uses:Human]]s mistake as a coherent independent entity (when it is in fact socially constructed). They characterize The State as a conceptual abstract over a power field representing the actual flow of power to which an order is established.
+[[defines:The State]] is a [[is-a:Social Construct]] that [[uses:Human]]s mistake as a coherent independent entity (when it is in fact socially constructed). They characterize The State as a conceptual abstract over a power field representing the actual flow of power within a [[uses:Society]] to which an order is established. This definition reinterprets [[uses:Weber's State]] by treating its properties as emergent rather than axiomatic.
 
 ## Justification
 

@@ -5,7 +5,7 @@ type: definition
 
 # Bourgeois State
 
-Defines [[defines:The State]] to be an entity that exists to manage the inherent conflict between [[uses:Social Classification|socioeconomic classes]] caused by the economic consequences of capitalism. Usually for the benefit of one class (the bourgeoisie) over the others.
+Defines [[defines:The State]] to be an entity that exists to manage the inherent conflict between [[uses:Social Classification|socioeconomic classes]] caused by the economic consequences of capitalism. Usually for the benefit of one class (the bourgeoisie) over the others. This definition extends [[uses:Weber's State]] by specifying the nature and origin of the order the state imposes.
 
 ### Justifications
 

@@ -33,7 +33,7 @@ Okay lets break this one down.
 
 Weber's State - The properties of: Monopoly on Violence, Organization, Territory, Imposition of an Order, do have shared underlying concepts such as:
  - Monopoly on Violence, Territory (i.e. Monopoly on Land), and Imposition of an Order (Monopoly on rules) all relate via the property of "[[mention:Monopoly]]".
- - They also all have to do with [[mention:society]], organization, territory, order, etc.
+ - They also all have to do with [[mention:Society]], organization, territory, order, etc.
  - There are likely many more connections between the attributes of Weber's State, but these should suffice for now to show that Weber's State is a roughly Coherent item.
 
 The Bourgeois State - This shares nearly all its attributes with Weber's State, only adding two main ideas: The idea that the state arose necessarily due to class conflict, and the nature of the order the state imposes being to manage that conflict (generally to the advantage of one class over the other). This also should satisfy property relatedness, at least in what it receives from Weber, but also between the two added on properties, both relating to the work Marx did studying capitalism.
